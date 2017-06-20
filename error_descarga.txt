@@ -1,0 +1,392 @@
+﻿Started: 11/06/2017 05:12 p.m.
+
+/public_html/admin-18/.htaccess - skipped
+/public_html/admin-18/actualiza_disponible.php - same - not transferred
+/public_html/admin-18/actualiza_estado.php - same - not transferred
+/public_html/admin-18/actualiza_oferta.php - same - not transferred
+/public_html/admin-18/ajax/agregar_categoria.php - same - not transferred
+/public_html/admin-18/ajax/categorias_lista.php - same - not transferred
+/public_html/admin-18/ajax/editar_categoria.php - same - not transferred
+/public_html/admin-18/ajax/editar_categoria_paso2.php - same - not transferred
+/public_html/admin-18/ajax/pagination.php - same - not transferred
+/public_html/admin-18/ajax/error_log - Transferring
+/public_html/admin-18/ajax/ver_descripciones.php - Transferring
+/public_html/admin-18/ajax/ver_productos.php - skipped
+/public_html/admin-18/banner_agregar.php - same - not transferred
+/public_html/admin-18/banner_orden.php - same - not transferred
+/public_html/admin-18/banners.php - same - not transferred
+/public_html/admin-18/ajax/ver_descripciones.php - Get operation successful
+/public_html/admin-18/ajax/error_log - Get operation successful
+/public_html/admin-18/bootstrap/css/bootstrap.css - same - not transferred
+/public_html/admin-18/bootstrap/css/bootstrap.css.map - skipped
+/public_html/admin-18/bootstrap/css/bootstrap.min.css - same - not transferred
+/public_html/admin-18/bootstrap/css/bootstrap.min.css.map - same - not transferred
+/public_html/admin-18/bootstrap/css/formValidation.min.css - same - not transferred
+/public_html/admin-18/bootstrap/fonts/glyphicons-halflings-regular.eot - same - not transferred
+/public_html/admin-18/bootstrap/fonts/glyphicons-halflings-regular.svg - same - not transferred
+/public_html/admin-18/bootstrap/fonts/glyphicons-halflings-regular.ttf - same - not transferred
+/public_html/admin-18/bootstrap/fonts/glyphicons-halflings-regular.woff - skipped
+/public_html/admin-18/bootstrap/fonts/glyphicons-halflings-regular.woff2 - same - not transferred
+/public_html/admin-18/bootstrap/js/bootstrap.js - skipped
+/public_html/admin-18/bootstrap/js/bootstrap.min.js - skipped
+/public_html/admin-18/bootstrap/js/formValidation.min.js - same - not transferred
+/public_html/admin-18/bootstrap/js/iniciaformvalidation.min.js - skipped
+/public_html/admin-18/bootstrap/js/npm.js - same - not transferred
+/public_html/admin-18/categorias.php - same - not transferred
+/public_html/admin-18/connex-base/conex.php - same - not transferred
+/public_html/admin-18/connex-base/error_log - same - not transferred
+/public_html/admin-18/descripciones.php - same - not transferred
+/public_html/admin-18/descripcion_add.php - Transferring
+/public_html/admin-18/dist/css/AdminLTE.css - skipped
+/public_html/admin-18/descripcion_add.php - Get operation successful
+/public_html/admin-18/dist/css/AdminLTE.min.css - skipped
+/public_html/admin-18/dist/css/fileinput.css - same - not transferred
+/public_html/admin-18/dist/css/fileinput.min.css - Transferring
+/public_html/admin-18/dist/css/skins/_all-skins.css - same - not transferred
+/public_html/admin-18/dist/css/skins/_all-skins.min.css - skipped
+/public_html/admin-18/dist/css/fileinput.min.css - Get operation successful
+/public_html/admin-18/dist/css/skins/skin-black-light.css - skipped
+/public_html/admin-18/dist/css/skins/skin-black-light.min.css - same - not transferred
+/public_html/admin-18/dist/css/skins/skin-black.css - skipped
+/public_html/admin-18/dist/css/skins/skin-black.min.css - same - not transferred
+/public_html/admin-18/dist/css/skins/skin-blue-light.css - same - not transferred
+/public_html/admin-18/dist/css/skins/skin-blue-light.min.css - skipped
+/public_html/admin-18/dist/css/skins/skin-blue.css - skipped
+/public_html/admin-18/dist/css/skins/skin-blue.min.css - same - not transferred
+/public_html/admin-18/dist/css/skins/skin-green-light.css - same - not transferred
+/public_html/admin-18/dist/css/skins/skin-green-light.min.css - skipped
+/public_html/admin-18/dist/css/skins/skin-green.css - same - not transferred
+/public_html/admin-18/dist/css/skins/skin-green.min.css - skipped
+/public_html/admin-18/dist/css/skins/skin-purple-light.css - skipped
+/public_html/admin-18/dist/css/skins/skin-purple-light.min.css - same - not transferred
+/public_html/admin-18/dist/css/skins/skin-purple.css - same - not transferred
+/public_html/admin-18/dist/css/skins/skin-purple.min.css - skipped
+/public_html/admin-18/dist/css/skins/skin-red-light.css - same - not transferred
+/public_html/admin-18/dist/css/skins/skin-red-light.min.css - skipped
+/public_html/admin-18/dist/css/skins/skin-red.css - skipped
+/public_html/admin-18/dist/css/skins/skin-red.min.css - same - not transferred
+/public_html/admin-18/dist/css/skins/skin-yellow-light.css - same - not transferred
+/public_html/admin-18/dist/css/skins/skin-yellow-light.min.css - skipped
+/public_html/admin-18/dist/css/skins/skin-yellow.css - same - not transferred
+/public_html/admin-18/dist/css/skins/skin-yellow.min.css - Transferring
+/public_html/admin-18/dist/img/avatar.png - same - not transferred
+/public_html/admin-18/dist/img/avatar04.png - same - not transferred
+/public_html/admin-18/dist/img/avatar2.png - skipped
+/public_html/admin-18/dist/img/avatar3.png - same - not transferred
+/public_html/admin-18/dist/css/skins/skin-yellow.min.css - Get operation successful
+/public_html/admin-18/dist/img/avatar5.png - skipped
+/public_html/admin-18/dist/img/boxed-bg.jpg - skipped
+/public_html/admin-18/dist/img/boxed-bg.png - same - not transferred
+/public_html/admin-18/dist/img/credit/american-express.png - skipped
+/public_html/admin-18/dist/img/credit/cirrus.png - same - not transferred
+/public_html/admin-18/dist/img/credit/mastercard.png - skipped
+/public_html/admin-18/dist/img/credit/mestro.png - skipped
+/public_html/admin-18/dist/img/credit/paypal.png - same - not transferred
+/public_html/admin-18/dist/img/credit/paypal2.png - same - not transferred
+/public_html/admin-18/dist/img/credit/visa.png - skipped
+/public_html/admin-18/dist/img/default-50x50.gif - same - not transferred
+/public_html/admin-18/dist/img/icons.png - skipped
+/public_html/admin-18/dist/img/photo1.png - skipped
+/public_html/admin-18/dist/img/photo2.png - same - not transferred
+/public_html/admin-18/dist/img/photo3.jpg - same - not transferred
+/public_html/admin-18/dist/img/photo4.jpg - skipped
+/public_html/admin-18/dist/img/user1-128x128.jpg - same - not transferred
+/public_html/admin-18/dist/img/user2-160x160.jpg - skipped
+/public_html/admin-18/dist/img/user3-128x128.jpg - skipped
+/public_html/admin-18/dist/img/user4-128x128.jpg - skipped
+/public_html/admin-18/dist/img/user5-128x128.jpg - same - not transferred
+/public_html/admin-18/dist/img/user6-128x128.jpg - same - not transferred
+/public_html/admin-18/dist/img/user7-128x128.jpg - same - not transferred
+/public_html/admin-18/dist/img/user8-128x128.jpg - skipped
+/public_html/admin-18/dist/js/app.js - skipped
+/public_html/admin-18/dist/js/app.min.js - same - not transferred
+/public_html/admin-18/dist/js/demo.js - same - not transferred
+/public_html/admin-18/dist/js/fileinput.js - same - not transferred
+/public_html/admin-18/dist/js/fileinput.min.js - same - not transferred
+/public_html/admin-18/dist/js/fileinput_locale_es.js - skipped
+/public_html/admin-18/dist/js/pages/dashboard.js - skipped
+/public_html/admin-18/dist/js/pages/dashboard2.js - same - not transferred
+/public_html/admin-18/dist/js/popup.js - skipped
+/public_html/admin-18/dist/js/validate/additional-methods.js - skipped
+/public_html/admin-18/dist/js/validate/additional-methods.min.js - skipped
+/public_html/admin-18/dist/js/validate/jquery.validate.js - skipped
+/public_html/admin-18/dist/js/validate/jquery.validate.min.js - same - not transferred
+/public_html/admin-18/dist/js/validate/localization/messages_ar.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_ar.min.js - same - not transferred
+/public_html/admin-18/dist/js/validate/localization/messages_bg.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_bg.min.js - same - not transferred
+/public_html/admin-18/dist/js/validate/localization/messages_bn_BD.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_bn_BD.min.js - same - not transferred
+/public_html/admin-18/dist/js/validate/localization/messages_ca.js - same - not transferred
+/public_html/admin-18/dist/js/validate/localization/messages_ca.min.js - same - not transferred
+/public_html/admin-18/dist/js/validate/localization/messages_cs.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_cs.min.js - same - not transferred
+/public_html/admin-18/dist/js/validate/localization/messages_da.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_da.min.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_de.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_de.min.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_el.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_el.min.js - same - not transferred
+/public_html/admin-18/dist/js/validate/localization/messages_es.js - same - not transferred
+/public_html/admin-18/dist/js/validate/localization/messages_es.min.js - same - not transferred
+/public_html/admin-18/dist/js/validate/localization/messages_es_AR.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_es_AR.min.js - same - not transferred
+/public_html/admin-18/dist/js/validate/localization/messages_es_PE.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_es_PE.min.js - same - not transferred
+/public_html/admin-18/dist/js/validate/localization/messages_et.js - same - not transferred
+/public_html/admin-18/dist/js/validate/localization/messages_et.min.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_eu.js - same - not transferred
+/public_html/admin-18/dist/js/validate/localization/messages_fa.js - same - not transferred
+/public_html/admin-18/dist/js/validate/localization/messages_eu.min.js - Transferring
+/public_html/admin-18/dist/js/validate/localization/messages_fi.min.js - same - not transferred
+/public_html/admin-18/dist/js/validate/localization/messages_fr.min.js - same - not transferred
+/public_html/admin-18/dist/js/validate/localization/messages_gl.js - same - not transferred
+/public_html/admin-18/dist/js/validate/localization/messages_fa.min.js - Transferring
+/public_html/admin-18/dist/js/validate/localization/messages_fi.js - Transferring
+/public_html/admin-18/dist/js/validate/localization/messages_fr.js - Transferring
+/public_html/admin-18/dist/js/validate/localization/messages_is.min.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_ka.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_fi.js - Get operation successful
+/public_html/admin-18/dist/js/validate/localization/messages_ge.js - Transferring
+/public_html/admin-18/dist/js/validate/localization/messages_fa.min.js - Get operation successful
+/public_html/admin-18/dist/js/validate/localization/messages_ge.min.js - Transferring
+/public_html/admin-18/dist/js/validate/localization/messages_ka.min.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_gl.min.js - Transferring
+/public_html/admin-18/dist/js/validate/localization/messages_fr.js - Get operation successful
+/public_html/admin-18/dist/js/validate/localization/messages_he.js - Transferring
+/public_html/admin-18/dist/js/validate/localization/messages_kk.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_he.min.js - Transferring
+/public_html/admin-18/dist/js/validate/localization/messages_hr.js - Transferring
+/public_html/admin-18/dist/js/validate/localization/messages_ko.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_gl.min.js - Get operation successful
+/public_html/admin-18/dist/js/validate/localization/messages_hr.min.js - Transferring
+/public_html/admin-18/dist/js/validate/localization/messages_ko.min.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_hu.js - Transferring
+/public_html/admin-18/dist/js/validate/localization/messages_he.min.js - Get operation successful
+/public_html/admin-18/dist/js/validate/localization/messages_hr.js - Get operation successful
+/public_html/admin-18/dist/js/validate/localization/messages_hu.min.js - Transferring
+/public_html/admin-18/dist/js/validate/localization/messages_hy_AM.js - Transferring
+/public_html/admin-18/dist/js/validate/localization/messages_lt.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_lt.min.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_hy_AM.min.js - Transferring
+/public_html/admin-18/dist/js/validate/localization/messages_id.js - Transferring
+/public_html/admin-18/dist/js/validate/localization/messages_lv.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_hu.js - Get operation successful
+/public_html/admin-18/dist/js/validate/localization/messages_id.min.js - Transferring
+/public_html/admin-18/dist/js/validate/localization/messages_is.js - Transferring
+/public_html/admin-18/dist/js/validate/localization/messages_id.js - Get operation successful
+/public_html/admin-18/dist/js/validate/localization/messages_my.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_hy_AM.min.js - Get operation successful
+/public_html/admin-18/dist/js/validate/localization/messages_it.js - Transferring
+/public_html/admin-18/dist/js/validate/localization/messages_it.min.js - Transferring
+/public_html/admin-18/dist/js/validate/localization/messages_my.min.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_ja.js - Transferring
+/public_html/admin-18/dist/js/validate/localization/messages_nl.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_is.js - Get operation successful
+/public_html/admin-18/dist/js/validate/localization/messages_ja.min.js - Transferring
+/public_html/admin-18/dist/js/validate/localization/messages_nl.min.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_it.min.js - Get operation successful
+/public_html/admin-18/dist/js/validate/localization/messages_ja.js - Get operation successful
+/public_html/admin-18/dist/js/validate/localization/messages_kk.min.js - Transferring
+/public_html/admin-18/dist/js/validate/localization/messages_no.min.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_pl.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_ge.js - Get operation successful
+/public_html/admin-18/dist/js/validate/localization/messages_pl.min.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_pt_BR.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_he.js - Get operation successful
+/public_html/admin-18/dist/js/validate/localization/messages_lv.min.js - Transferring
+/public_html/admin-18/dist/js/validate/localization/messages_hr.min.js - Get operation successful
+/public_html/admin-18/dist/js/validate/localization/messages_pt_BR.min.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_hy_AM.js - Get operation successful
+/public_html/admin-18/dist/js/validate/localization/messages_no.js - Transferring
+/public_html/admin-18/dist/js/validate/localization/messages_ro.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_eu.min.js - Get operation successful
+/public_html/admin-18/dist/js/validate/localization/messages_ru.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_it.js - Get operation successful
+/public_html/admin-18/dist/js/validate/localization/messages_no.js - Get operation successful
+/public_html/admin-18/dist/js/validate/localization/messages_ru.min.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_si.min.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_lv.min.js - Get operation successful
+/public_html/admin-18/dist/js/validate/localization/messages_pt_PT.js - Transferring
+/public_html/admin-18/dist/js/validate/localization/messages_sk.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_sk.min.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_sl.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_id.min.js - Get operation successful
+/public_html/admin-18/dist/js/validate/localization/messages_pt_PT.min.js - Transferring
+/public_html/admin-18/dist/js/validate/localization/messages_sl.min.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_ja.min.js - Get operation successful
+/public_html/admin-18/dist/js/validate/localization/messages_ro.min.js - Transferring
+/public_html/admin-18/dist/js/validate/localization/messages_sr_lat.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_ge.min.js - Get operation successful
+/public_html/admin-18/dist/js/validate/localization/messages_sr_lat.min.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_kk.min.js - error occurred - An FTP error occurred - cannot get messages_kk.min.js.  Internal data error. Failed to receive network data.
+/public_html/admin-18/dist/js/validate/localization/messages_si.js - Transferring
+/public_html/admin-18/dist/js/validate/localization/messages_sv.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_sv.min.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_si.js - Get operation successful
+/public_html/admin-18/dist/js/validate/localization/messages_hu.min.js - Get operation successful
+/public_html/admin-18/dist/js/validate/localization/messages_th.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_th.min.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_sr.js - Transferring
+/public_html/admin-18/dist/js/validate/localization/messages_sr.min.js - Transferring
+/public_html/admin-18/dist/js/validate/localization/messages_tj.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_tj.min.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_sr.min.js - Get operation successful
+/public_html/admin-18/dist/js/validate/localization/messages_sr.js - Get operation successful
+/public_html/admin-18/dist/js/validate/localization/messages_tr.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_pt_PT.min.js - error occurred - An FTP error occurred - cannot get messages_pt_PT.min.js.  Internal data error. Failed to receive network data.
+/public_html/admin-18/dist/js/validate/localization/messages_tr.min.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_uk.min.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_vi.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_vi.min.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_zh.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_zh.min.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_zh_TW.js - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_uk.js - Transferring
+/public_html/admin-18/dist/js/validate/localization/methods_nl.min.js - skipped
+/public_html/admin-18/dist/js/validate/localization/methods_pt.js - skipped
+/public_html/admin-18/dist/js/validate/localization/methods_pt.min.js - skipped
+/public_html/admin-18/dist/js/validate/validar.js - skipped
+/public_html/admin-18/editar_producto.php - skipped
+/public_html/admin-18/error.php - skipped
+/public_html/admin-18/home.php - skipped
+/public_html/admin-18/imagenes_add.php - skipped
+/public_html/admin-18/img/logo.jpg - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_pt_PT.js - Get operation successful
+/public_html/admin-18/dist/js/validate/localization/messages_zh_TW.min.js - Transferring
+/public_html/admin-18/includes/agrega_producto.php - skipped
+/public_html/admin-18/includes/agregar_producto.php - skipped
+/public_html/admin-18/includes/borrar.php - skipped
+/public_html/admin-18/includes/class.imgsizer.php - skipped
+/public_html/admin-18/includes/class.phpmailer.php - skipped
+/public_html/admin-18/includes/class.smtp.php - skipped
+/public_html/admin-18/includes/conectar.php - skipped
+/public_html/admin-18/dist/js/validate/localization/messages_ro.min.js - Get operation successful
+/public_html/admin-18/includes/upload.php - skipped
+/public_html/admin-18/dist/js/validate/localization/methods_de.js - Transferring
+/public_html/admin-18/marca_agregar.php - skipped
+/public_html/admin-18/marca_delete.php - skipped
+/public_html/admin-18/marcas.php - skipped
+/public_html/admin-18/dist/js/validate/localization/methods_de.min.js - Transferring
+/public_html/admin-18/dist/js/validate/localization/messages_uk.js - Get operation successful
+/public_html/admin-18/dist/js/validate/localization/methods_es_CL.js - Transferring
+/public_html/admin-18/dist/js/validate/localization/methods_es_CL.min.js - Transferring
+/public_html/admin-18/dist/js/validate/localization/methods_fi.js - Transferring
+/public_html/admin-18/plugins/bootstrap-slider/bootstrap-slider.js - skipped
+/public_html/admin-18/plugins/bootstrap-slider/slider.css - skipped
+/public_html/admin-18/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.js - skipped
+/public_html/admin-18/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js - skipped
+/public_html/admin-18/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css - skipped
+/public_html/admin-18/dist/js/validate/localization/methods_de.min.js - Get operation successful
+/public_html/admin-18/dist/js/validate/localization/methods_fi.min.js - Transferring
+/public_html/admin-18/dist/js/validate/localization/methods_es_CL.min.js - Get operation successful
+/public_html/admin-18/dist/js/validate/localization/methods_nl.js - Transferring
+/public_html/admin-18/plugins/chartjs/Chart.min.js - skipped
+/public_html/admin-18/editar_descripcion.php - Transferring
+/public_html/admin-18/dist/js/validate/localization/methods_fi.js - Get operation successful
+/public_html/admin-18/error_log - Transferring
+/public_html/admin-18/plugins/ckeditor/CHANGES.md - skipped
+/public_html/admin-18/plugins/ckeditor/README.md - skipped
+/public_html/admin-18/img/ajax-loader.gif - Transferring
+/public_html/admin-18/includes/agregar_descripcion.php - Transferring
+/public_html/admin-18/plugins/ckeditor/adapters/jquery.js - skipped
+/public_html/admin-18/plugins/ckeditor/build-config.js - skipped
+/public_html/admin-18/plugins/ckeditor/config.js - skipped
+/public_html/admin-18/plugins/ckeditor/contents.css - skipped
+/public_html/admin-18/plugins/ckeditor/lang/af.js - skipped
+/public_html/admin-18/plugins/ckeditor/lang/ar.js - skipped
+/public_html/admin-18/plugins/ckeditor/lang/bn.js - skipped
+/public_html/admin-18/plugins/ckeditor/lang/ca.js - skipped
+/public_html/admin-18/plugins/ckeditor/lang/cs.js - skipped
+/public_html/admin-18/plugins/ckeditor/lang/cy.js - skipped
+/public_html/admin-18/plugins/ckeditor/lang/da.js - skipped
+/public_html/admin-18/plugins/ckeditor/lang/de.js - skipped
+/public_html/admin-18/plugins/ckeditor/lang/el.js - skipped
+/public_html/admin-18/plugins/ckeditor/lang/en-ca.js - skipped
+/public_html/admin-18/plugins/ckeditor/lang/eo.js - skipped
+/public_html/admin-18/plugins/ckeditor/lang/es.js - skipped
+/public_html/admin-18/plugins/ckeditor/lang/et.js - skipped
+/public_html/admin-18/plugins/ckeditor/lang/eu.js - skipped
+/public_html/admin-18/plugins/ckeditor/lang/fa.js - skipped
+/public_html/admin-18/plugins/ckeditor/lang/fi.js - skipped
+/public_html/admin-18/plugins/ckeditor/lang/fo.js - skipped
+/public_html/admin-18/plugins/ckeditor/lang/fr.js - skipped
+/public_html/admin-18/plugins/ckeditor/lang/he.js - skipped
+/public_html/admin-18/plugins/ckeditor/lang/hi.js - skipped
+/public_html/admin-18/plugins/ckeditor/lang/hr.js - skipped
+/public_html/admin-18/plugins/ckeditor/lang/hu.js - skipped
+/public_html/admin-18/plugins/ckeditor/lang/id.js - skipped
+/public_html/admin-18/plugins/ckeditor/lang/is.js - skipped
+/public_html/admin-18/plugins/ckeditor/lang/it.js - skipped
+/public_html/admin-18/plugins/ckeditor/lang/ja.js - skipped
+/public_html/admin-18/plugins/ckeditor/lang/km.js - skipped
+/public_html/admin-18/plugins/ckeditor/lang/lt.js - skipped
+/public_html/admin-18/plugins/ckeditor/lang/lv.js - skipped
+/public_html/admin-18/plugins/ckeditor/lang/mk.js - skipped
+/public_html/admin-18/plugins/ckeditor/lang/mn.js - skipped
+/public_html/admin-18/plugins/ckeditor/lang/ms.js - skipped
+/public_html/admin-18/plugins/ckeditor/lang/nb.js - skipped
+/public_html/admin-18/plugins/ckeditor/lang/nl.js - skipped
+/public_html/admin-18/plugins/ckeditor/lang/no.js - skipped
+/public_html/admin-18/plugins/ckeditor/lang/pt-br.js - skipped
+/public_html/admin-18/editar_descripcion.php - Get operation successful
+/public_html/admin-18/plugins/ckeditor/lang/ru.js - skipped
+/public_html/admin-18/plugins/ckeditor/lang/si.js - skipped
+/public_html/admin-18/plugins/ckeditor/lang/sk.js - skipped
+/public_html/admin-18/plugins/ckeditor/lang/sl.js - skipped
+/public_html/admin-18/plugins/ckeditor/lang/sq.js - skipped
+/public_html/admin-18/plugins/ckeditor/lang/sr-latn.js - skipped
+/public_html/admin-18/plugins/ckeditor/lang/sr.js - skipped
+/public_html/admin-18/plugins/ckeditor/lang/sv.js - skipped
+/public_html/admin-18/includes/edita_producto.php - Transferring
+/public_html/admin-18/plugins/ckeditor/lang/tr.js - skipped
+/public_html/admin-18/plugins/ckeditor/lang/vi.js - skipped
+/public_html/admin-18/plugins/ckeditor/lang/zh-cn.js - skipped
+/public_html/admin-18/plugins/ckeditor/lang/zh.js - skipped
+/public_html/admin-18/img/ajax-loader.gif - Get operation successful
+/public_html/admin-18/includes/editar_descripcion.php - Transferring
+/public_html/admin-18/includes/error_log - Transferring
+/public_html/admin-18/includes/agregar_descripcion.php - Get operation successful
+/public_html/admin-18/includes/footer.php - Transferring
+/public_html/admin-18/includes/funciones.php - Transferring
+/public_html/admin-18/includes/header.php - Transferring
+/public_html/admin-18/plugins/ckeditor/plugins/a11yhelp/dialogs/a11yhelp.js - skipped
+/public_html/admin-18/includes/error_log - Get operation successful
+/public_html/admin-18/includes/productoshome.php - Transferring
+/public_html/admin-18/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/ar.js - skipped
+/public_html/admin-18/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/ca.js - skipped
+/public_html/admin-18/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/cy.js - skipped
+/public_html/admin-18/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/da.js - skipped
+/public_html/admin-18/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/de.js - skipped
+/public_html/admin-18/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/el.js - skipped
+/public_html/admin-18/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/en.js - skipped
+/public_html/admin-18/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/eo.js - skipped
+/public_html/admin-18/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/es.js - skipped
+/public_html/admin-18/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/fi.js - skipped
+/public_html/admin-18/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/fr-ca.js - skipped
+/public_html/admin-18/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/gl.js - skipped
+/public_html/admin-18/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/gu.js - skipped
+/public_html/admin-18/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/he.js - skipped
+/public_html/admin-18/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/hi.js - skipped
+/public_html/admin-18/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/hr.js - skipped
+/public_html/admin-18/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/hu.js - skipped
+/public_html/admin-18/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/id.js - skipped
+/public_html/admin-18/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/km.js - skipped
+/public_html/admin-18/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/ku.js - skipped
+/public_html/admin-18/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/lt.js - skipped
+/public_html/admin-18/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/lv.js - skipped
+/public_html/admin-18/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/mk.js - skipped
+/public_html/admin-18/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/mn.js - skipped
+/public_html/admin-18/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/nb.js - skipped
+/public_html/admin-18/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/nl.js - skipped
+/public_html/admin-18/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/pl.js - skipped
+/public_html/admin-18/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/pt-br.js - skipped
+/public_html/admin-18/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/ro.js - skipped
+/public_html/admin-18/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/ru.js - skipped
+/public_html/admin-18/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/sk.js - skipped
+/public_html/admin-18/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/sl.js - skipped
+/public_html/admin-18/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/sq.js - skipped
+/public_html/admin-18/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/sr-latn.js - skipped
+/public_html/admin-18/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/sr.js - skipped
+/public_html/admin-18/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/th.js - skipped
+/public_html/admin-18/plugins/ckeditor/plugins/a
