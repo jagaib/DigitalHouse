@@ -2,7 +2,7 @@
   /**
    *
    */
-  class usuario
+  class Usuario
   {
     private $nombre;
     private $fechaNac;

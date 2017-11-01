@@ -2,19 +2,20 @@
 
   abstract class Cuenta
   {
-    protected cbu ;
-    protected balance ;
-    protected ultimomov ;
-    protected tipo ;
+    protected $cbu ;
+    protected $balance ;
+    protected $ultimomov ;
+    protected $cuit ;
 
-    function __construct(int $cbu, String $tipo)
+    function __construct(int $cbu, int $cuit,int $balance)
     {
       $this->cbu = $cbu ;
-      $this->cbu = $tipo ;
+      $this->cuit = $cuit ;
+      $this->balance = $balance ;
     }
 
-    abstract function debtar(int $monto, String $desde) ;
-    }
+    abstract function debitar(int $monto, String $desde) ;
+
     public function acreditar(int $monto) {
       $this->balance = $this->balance+$monto ;
       $this->ultimomov = DateTime() ;

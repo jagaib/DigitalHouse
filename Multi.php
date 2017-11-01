@@ -11,5 +11,5 @@ Class Multinacional extends Empresa{
   public function getPais() {
     return $this->pais;
     }
-
+}
  ?>

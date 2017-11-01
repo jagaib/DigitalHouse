@@ -1,10 +1,14 @@
 <?php
+include_once("cliente.php");
 
 Class Empresa extends Cliente {
   private $cuit;
   private $razon;
 
-    public function __construct( string $razon, int $cuit){
+  function __construct($fecha,$email,$pass,$razon,$cuit) {
+  parent::setFecha($fecha);
+  parent::setEmail($email);
+  parent::setPass($pass);
       $this->nombre=$razon;
       $this->cuit=$cuit;
     }

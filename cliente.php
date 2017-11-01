@@ -9,11 +9,7 @@ abstract Class Cliente{
 
 //Creo una función constructora con sus parámetros necesarios
 
-abstract public function __construct($fecha,$email,$pass){
-    $this->fecha = $nacimiento;
-    $this->email = $email;
-    $this->pass = $pass;
-  }
+abstract public function __construct($fecha,$email,$pass);
 
   //Creo funciones públicas para setear el valor pasado como parámetro al ejecutar la función constructora, como valor de la propiedad del objeto instanciado
 
